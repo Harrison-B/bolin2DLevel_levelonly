@@ -42,3 +42,10 @@ AX + BVX
 AXXX
 
 ???
+
+
+
+## Notes from gameplay
+- Performance was an issue for Hyerin, making most of the jumping impossible
+- Forgot to remove the teleporter for development
+- Need to tweak Ellen collider so it has a flat bottom
