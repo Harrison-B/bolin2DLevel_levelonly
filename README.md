@@ -1,6 +1,6 @@
 # Harrison Bolin Game Design Level Project - Just the Unity Level
 
-Make sure to put the background image under "enviroment" if you want it
+Make sure to put the background image under Art->Sprits->Enviroment if you want it
 
 ## Design Goals:
 - Have a "leap of faith" that challenges
