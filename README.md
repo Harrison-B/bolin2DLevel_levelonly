@@ -12,15 +12,27 @@ Types of challenges A - Jumping challenge B - Shooting challenge
 X = Expansion V = Evolution
 
 A
+
 B
+
 A:X
+
 B:X
+
 A:V
+
 B:V
+
 AVX
+
 A:X + BX4
+
 A:VX + B
+
 AXX
+
 AX + BVX
+
 AXXX
+
 ???
