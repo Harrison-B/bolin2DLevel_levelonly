@@ -1,6 +1,6 @@
 # Harrison Bolin Game Design Level Project - Just the Unity Level
 
-##Design Goals:
+## Design Goals:
 - Have a "leap of faith" that challenges
 - Feature a variety of sized spaces
 - Leverage weird mechanics / physics
