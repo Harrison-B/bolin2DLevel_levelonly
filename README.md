@@ -7,7 +7,11 @@
 
 Rythym will be
 
-Types of challenges A - Jumping challenge B - Shooting challenge
+Types of challenges:
+
+A - Jumping challenge 
+
+B - Shooting challenge
 
 X = Expansion V = Evolution
 
